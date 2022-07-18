@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Homework3calc\Homework3calc\bin\Debug\net6.0\Homework3calc.exe
+C:\Users\user\source\repos\Homework3calc\Homework3calc\bin\Debug\net6.0\Homework3calc.deps.json
+C:\Users\user\source\repos\Homework3calc\Homework3calc\bin\Debug\net6.0\Homework3calc.runtimeconfig.json
+C:\Users\user\source\repos\Homework3calc\Homework3calc\bin\Debug\net6.0\Homework3calc.dll
+C:\Users\user\source\repos\Homework3calc\Homework3calc\bin\Debug\net6.0\Homework3calc.pdb
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.AssemblyInfo.cs
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.dll
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\refint\Homework3calc.dll
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.pdb
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\Homework3calc.genruntimeconfig.cache
+C:\Users\user\source\repos\Homework3calc\Homework3calc\obj\Debug\net6.0\ref\Homework3calc.dll
